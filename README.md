@@ -159,9 +159,9 @@ For inquiries, reach out to:
 Dimple L. Marin  
 📧 dimple.marin.016@gmail.com
 
-**Lead Developer:**  
-Ray Jay Dangculos
-[LinkedIn](https://linkedin.com/in/ray-jay-dangculos-02b18b341)
 ---
 
-[Documentation.docx](https://github.com/user-attachments/files/20239604/Documentation.docx)
+## 📄 Documentation
+
+Download: [Documentation.docx](https://github.com/user-attachments/files/20239604/Documentation.docx)
+---
